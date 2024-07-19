@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a data scientist at Pluralsight Flow! 
+I'm a data scientist at Sanity.io! 
